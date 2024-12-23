@@ -29,5 +29,5 @@ int main(int argc, char **argv)
 
     close(pp2c[0]);
     close(pc2p[0]);
-    exit(0);
+    exit(0); //测试一下上传到git有没有问题
 }
